@@ -1,5 +1,5 @@
 <?php
-class stamped_core_Block_Adminhtml_System_Config_Form_Button extends Mage_Adminhtml_Block_System_Config_Form_Field
+class Stamped_Core_Block_Adminhtml_System_Config_Form_Button extends Mage_Adminhtml_Block_System_Config_Form_Field
 {
     /*
      * template
