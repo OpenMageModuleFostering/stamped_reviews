@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Stamped_Reviews",
+    "type": "magento-module",
+    "license": "custom",
+    "homepage": "",
+    "description": "Stamped.io allows you to automatically send emails to your customers requesting for reviews for their purchase",
+    "authors": [
+    {
+        "name": "shopry",
+        "email": "tommy@shopry.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
